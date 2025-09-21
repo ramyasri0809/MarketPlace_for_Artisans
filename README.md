@@ -1,4 +1,4 @@
-CraftBazaar is a platform connecting traditional Indian artisans with modern consumers. The platform allows artisans to showcase and sell their handmade products online, while buyers can browse and purchase authentic crafts securely.
+CraftBazaar is an AI powered  platform connecting traditional Indian artisans with modern consumers. The platform allows artisans to showcase and sell their handmade products online, while buyers can browse and purchase authentic crafts securely.
 Features
 For Artisans
 - Easy-to-use dashboard
