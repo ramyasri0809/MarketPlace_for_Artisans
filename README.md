@@ -1,11 +1,19 @@
-
-  # AI Marketplace for Artisans
-
-  This is a code bundle for AI Marketplace for Artisans. The original project is available at https://www.figma.com/design/NtuFRi7v3k2c1jLITjZJXu/AI-Marketplace-for-Artisans.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+CraftBazaar is a platform connecting traditional Indian artisans with modern consumers. The platform allows artisans to showcase and sell their handmade products online, while buyers can browse and purchase authentic crafts securely.
+Features
+For Artisans
+- Easy-to-use dashboard
+- Add products with images, descriptions, and prices
+- Offer discounts and promotions
+- Manage inventory and product listings
+For Buyers
+- Browse and filter products
+- Secure checkout
+- Explore unique handmade crafts
+Future AI Features
+- Auto-generated product descriptions
+- Personalized product recommendations
+- Storytelling tools to highlight craft heritage
+Technology Stack
+- Frontend: HTML, CSS, TypeScript, Vite
+- Backend: Node.js (if applicable)
+- Version Control: Git & GitHub
