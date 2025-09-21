@@ -16,4 +16,4 @@ Future AI Features
 Technology Stack
 - Frontend: HTML, CSS, TypeScript, Vite
 - Backend: Node.js (if applicable)
-- Version Control: Git & GitHub
+- Version Control: Git & GitHub.
